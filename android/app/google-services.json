@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343035109055",
+    "project_id": "anesthetic-74295",
+    "storage_bucket": "anesthetic-74295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343035109055:android:2a84437ebe82347a33f00a",
+        "android_client_info": {
+          "package_name": "com.mycompany.myanesthetictest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwkjL5aaHMToh4_nFnTudckWclDpXyTGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
